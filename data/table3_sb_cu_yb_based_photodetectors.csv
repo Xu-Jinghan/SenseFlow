@@ -1,0 +1,7 @@
+photosensitizer,material_category,structure,D_jones,D_note,rise_time_ms,fall_time_ms,responsivity_AW,responsivity_bias_V,stability,ref,notes
+MA3Sb2I9 MSCs,Sb,Photoconductor,1.0e12,~,0.4,0.9,40,5,2 weeks,78,
+Cs3Sb2Cl9 NWs,Sb,Photoconductor,1.25e6,,130,230,3616,0,,79,resp~3616 A/W
+Cs3Sb2Br9 nanoflakes,Sb,Photoconductor,2.6e12,,24,48,3.8,10,,80,
+Cs3Cu2I5,Cu,Photoconductor,6.9e11,,26.2,49.9,0.0649,1,1 month,82,
+Cs3Cu2I5/GaN heterojunction,Cu,Photodiode,1.4e12,,0.095,0.13,0.28,0,373 K for 12 h or 1 month,83,original_times:95/130us
+CsYbI3 NCs/graphene,Yb,Phototransistor,,,694,4648,2.4e3,0,,84,

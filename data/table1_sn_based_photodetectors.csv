@@ -1,0 +1,14 @@
+photosensitizer,material_category,structure,D_jones,D_note,rise_time_ms,fall_time_ms,responsivity_AW,responsivity_bias_V,stability,ref,notes
+MASnI3 NWs,Sn,Photoconductor,8.80e10,,1500,400,0.47,0,10080 min,35,
+CsSnI3 NWs,Sn,Photoconductor,3.85e5,,83.8,243.4,0.054,0,,36,
+FASnI3,Sn,Photoconductor,1.9e12,,8700,57000,1.1e5,0.5,,37,
+CsSnI3,Sn,Photodiode,1.5e11,,0.35,1.6,0.257,0,>30 min,39,
+Cs2SnI6 NCs,Sn,Photoconductor,1.0e13,,1000,1000,130,-5,,44,resp~130 A/W
+Cs2SnBr6 SCs,Sn,Photoconductor,2.71e10,,9.52,4.34,,,20 days,45,
+Cs2SnI6,Sn,Photoconductor,,,100,100,,,1 month,42,rise_time<100ms;fall_time<100ms
+(PEA)2SnI4,Sn,Phototransistor,,,450,10000,1.9e4,-40,,50,rise_time<0.45s;fall_time>10s
+(PEA)2SnI4,Sn,Photoconductor,1.92e11,,630,3600,16,0,1500 bending cycles,54,
+(PEA)2SnI4,Sn,Phototransistor,1.74e12,,1600,1700,14.57,0,,56,rise_time~1.6s
+Graphene/(PEA)2SnI4/MoS2/graphene,Sn,Photodiode,8.09e9,,34,38,1100,3,>1000 s,57,resp_at_0V=0.121 A/W
+(PEA)2SnI4-semi-CNTs,Sn,Phototransistor,1.12e17,,825,440,6.3e4,10,,59,
+(PEA)2SnI4,Sn,Photoconductor,2.06e11,,370,3050,3.29e3,3,,60,

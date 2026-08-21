@@ -1,0 +1,22 @@
+name: senseflow
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pytorch
+  - torchvision
+  - pytorch-cuda=12.4
+  - numpy=1.26
+  - scipy
+  - pandas
+  - matplotlib
+  - pillow
+  - scikit-image
+  - pyyaml
+  - tqdm
+  - pip
+  - pip:
+      - absl-py
+      - ultralytics
